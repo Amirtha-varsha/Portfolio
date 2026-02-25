@@ -5,3 +5,5 @@
 https://github.com/Amirtha-varsha/Chatbot
 # Potato disease prediction
 https://github.com/Amirtha-varsha/PotatoDisease
+# Automated Email Sender using n8n
+https://github.com/Amirtha-varsha/Automated-Email-Sender-using-n8n
