@@ -7,3 +7,5 @@ https://github.com/Amirtha-varsha/Chatbot
 https://github.com/Amirtha-varsha/PotatoDisease
 # Automated Email Sender using n8n
 https://github.com/Amirtha-varsha/Automated-Email-Sender-using-n8n
+# Automated Payment Reminder System using n8n
+https://github.com/Amirtha-varsha/Automated-Payment-Reminder-System-using-n8n
