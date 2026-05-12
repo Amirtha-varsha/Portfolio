@@ -9,3 +9,5 @@ https://github.com/Amirtha-varsha/PotatoDisease
 https://github.com/Amirtha-varsha/Automated-Email-Sender-using-n8n
 # Automated Payment Reminder System using n8n
 https://github.com/Amirtha-varsha/Automated-Payment-Reminder-System-using-n8n
+# Text to Image generator using stable diffusion
+https://github.com/Amirtha-varsha/Text-to-Image
